@@ -1,0 +1,13 @@
+.page-header {
+    margin: 10px 0 10px;
+}
+.jumbotron
+{
+    background-image: url("../images/book-studies-banner.jpg");
+}
+.jumbotron h1
+{
+    color:orangered;
+    position: relative;
+    top: 50px;
+}
